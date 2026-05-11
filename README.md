@@ -1,5 +1,5 @@
 ######New neofetch########
 
-Dependencies
+Dependencies for distro image
 
 - chafa
