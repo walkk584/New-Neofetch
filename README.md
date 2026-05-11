@@ -1,0 +1,5 @@
+New neofetch
+
+Dependencies
+
+- chafa
