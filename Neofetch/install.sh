@@ -1,3 +1,4 @@
+chmod +x neofetch
 sudo mv neofetch /bin
 
-echo "Neofetch installed"
+echo "Neofetch installed!"
